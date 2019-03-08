@@ -37,5 +37,8 @@
 		"Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
 		"Joshua Reade Harris <jharris@thinkful.com>"
 	],
+	"engines": {
+		"node": "11.9.0"
+	},
 	"license": "MIT"
 }
